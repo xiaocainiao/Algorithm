@@ -1,7 +1,4 @@
 .idea
-target
-logs
-models
-dependency-reduced-pom.xml
-output
-*.txt
+.DS_Store
+out
+*.iml
