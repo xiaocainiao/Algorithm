@@ -1,2 +1,7 @@
 .idea
 .DS_Store
+<<<<<<< HEAD
+=======
+out
+*.iml
+>>>>>>> branch_1
